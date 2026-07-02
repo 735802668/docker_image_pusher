@@ -1,1 +1,3 @@
 ghcr.dockerproxy.com/mgdaaslab/wharttest-backend:latest
+ghcr.dockerproxy.com/mgdaaslab/wharttest-mcp:latest
+ghcr.dockerproxy.com/mgdaaslab/wharttest-frontend:latest
