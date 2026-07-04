@@ -1,1 +1,1 @@
-ghcr.dockerproxy.com/mgdaaslab/wharttest-frontend:latest
+node:22
